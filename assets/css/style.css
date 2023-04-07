@@ -15,26 +15,22 @@ body {
 }
 
 .under-construction-section {
-    background-image: url('../images/pexels-photo-355887.jpeg');
+    background-image: url('../images/chess-background.jpg');
     background-repeat: no-repeat;
     background-size: 100vw 100vh;
     height: 100vh;
 }
 
-.under-construction-section .company-name {
-    color: #fff;
-    text-align: center;
-    padding-top: 25vh;
-}
-
 .under-construction {
     text-align: center;
     color: #fff;
+    margin-left: 100px;
 }
+
 
 .cogs {
     color: #fff;
-    margin-left: 44vw;
+    margin-left: 22vw;
 }
 
 .slow-ani > * {
